@@ -24,10 +24,10 @@ npm install
 
 ⚙️ Environment Setup
 
-Create a .env file in the project root:
+You should create a .env file in the project root:
 
 BASE_URL=https://werkstattplanung.net/demo/api/kic/da
-DA_USERNAME=Laconics-Admin
+DA_USERNAME=replace-with-real-username
 DA_PASSWORD=replace-with-real-password
 
 
