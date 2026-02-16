@@ -1,0 +1,59 @@
+{
+  "cookies": [
+    {
+      "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+      "value": "eyJpdiI6Im1INW4yTkFtS0R2MkQ2eWhyM25IOHc9PSIsInZhbHVlIjoiRDFuZXpiVk0xWG4rOFFMbjRXaHlWVi9KVHhoNFhMU3FlS2h5VFNEaUxnTW5TMGYwZ1dSOVI1My9VdS81KzhNWk8zb1BkZXFpVjZvRUhMOGJZOXZzOEc0SzkxaGVEdlJaME1HZjFhQ3ZFdGJWWUhiTUhGdEFzQjVVZENIM2lpQW1uZjlsd3BCaG1hTFFLSHFtWkJVbGsxditRMFd2ZTlhNVNoejRxdXVyN2Y5L01kMFU0cnFPMFVZaHpYQnZBM2FEU3BtNU9DK1RlY2lKQ3gxeHF2NG5IdDI4SlkySzRmbkhvZzJTNVhNNDR0MD0iLCJtYWMiOiIyN2IwODQyYjRhNGU3ZDZjNTk4NmM3YTNkYmIxNjY1MWE2MGQxNTA5NTVlM2RjNjIwMDA3OTZmYTgyYWQ5NzMxIiwidGFnIjoiIn0%3D",
+      "domain": ".werkstattplanung.net",
+      "path": "/demo/api/kic",
+      "expires": 1805798172.266147,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "laravel_token",
+      "value": "eyJpdiI6IkFOWnNrOEJNNGVpR0Y1UTRGYTUrdUE9PSIsInZhbHVlIjoieEptOHZFSFVaeXU5NXducmw3ak9xQU5XZmlnS3pOZjRvTzB4UEorTm82V1huM1hyVlVtUTBucnFIalE2Wmx0aWU1U3hpZUJib3AraHJSMjV6bzJXdkdHWTRuaFFvYlFHL3BETVNpeVhoNTZqaEdCOFB5Z3ViZ2dZVW1zL0gwVXRpMTAySGlENTRydjV1NTdLTFZYQ2hUVVUwd0oxcWdTZ0xyQjgxMGV0VXNlK05BT0F6NUkvSkVlMXN3NkZjS0M0ZWlLenRUYnhNamJmYmpiOHpBY1ZoVnR3dmpaWHZNdm5ka0VFTnhRYThzTENXaFoxb1UrRGt4RUZvYXdxdzlIYi8wVGhaR0lUT0l1WUI5L1ZBWlo4bXNVbWtPRGxKeTNFcUxCU2Q2Y0plOTBLVFUveEhKYXluQ3dnTkhxL255QloiLCJtYWMiOiIxOGEyY2Q2ZWQzMDcyZGQxYzliYWQ1YTI2YTIwZmVjODA1MGJmYzZlZWI2ZGJlMmUzZWExZTY4ZjNiM2E2M2I5IiwidGFnIjoiIn0%3D",
+      "domain": ".werkstattplanung.net",
+      "path": "/demo/api/kic",
+      "expires": 1771266972.838504,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6IkhPb1QxeEpuOTlEQUpPaTFBY3FwSFE9PSIsInZhbHVlIjoiSE0zV2htK3EreE1UZWlvM3lIbkh5UHBpbEpwVGxwSDIreFAwTGZWWVlJVDFRVm1FZ2FmMHRJM21wWGpLTlc0YmRtQWVvazhLNStHUGRMd1RHTHd6Y1BTZ0pMNXRJcXJ0UHYvcVA3ZUw0WHI5TEYwNzVQcFllWldsNVJnTm13em8iLCJtYWMiOiJmYTQ5Yzg0MTM3NjFiNmEzODdiN2U3MmExOWRiY2Q5Yjk3MzhjMDI3MWFhNGI2NWJlNTY1NTFlN2M1MzBkMzczIiwidGFnIjoiIn0%3D",
+      "domain": ".werkstattplanung.net",
+      "path": "/demo/api/kic",
+      "expires": 1771266972.838605,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "demo_api_laravel_session",
+      "value": "eyJpdiI6IkozdjFzNm1zamhuc2pDaW1sN1ZST2c9PSIsInZhbHVlIjoicWkrdlNReFRwTHJ6MjMvS2hNVnFJSy9wVWpyWjZ1ckV2NGd4WnZtYjBiMmIzbDQvelNDZGlSdFAxTGY4UTQrdGRFVCtUaWhXMWE0eGpPS0xnQ2RUeUQxQ3AvZHVvd2cvUnQwY0RUKzlnSGQwUWUxZFh3SWZtZHNpcm5mdmZkckoiLCJtYWMiOiJlM2IyNzk4YWY0ZTBmNzczOTVmNTkxMjU3ZmQwNTI2YzhjNDgyYTViZWQ0ZTNhNDk5NGI2YmY2OGYzZGRlMjU5IiwidGFnIjoiIn0%3D",
+      "domain": ".werkstattplanung.net",
+      "path": "/demo/api/kic",
+      "expires": 1771266972.838665,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://werkstattplanung.net",
+      "localStorage": [
+        {
+          "name": "pusherTransportTLS",
+          "value": "{\"timestamp\":1771238173172,\"transport\":\"ws\",\"latency\":121}"
+        },
+        {
+          "name": "demo:api-state",
+          "value": "{\"app\":{\"currentUser\":{\"localStorageConfigs\":{\"table_mode_views\":[],\"rental_vehicles_selected_centers\":[],\"primaryEventColor\":\"event_type\",\"secondaryEventColor\":1,\"disableTooltip\":false,\"schedulerZoomLevel\":2,\"warehouseDrawer\":{\"hideFullWarehouseData\":false,\"lastSelectedWarehouse\":0,\"lastSelectedStatus\":0,\"tab\":null},\"schedulerTimeline\":{\"openSections\":[],\"timelineDetailsLevel\":2},\"fileExplorerPaginationConfigs\":{},\"navigation\":{\"mini\":false,\"active\":true,\"workloadActive\":false},\"calendar\":{\"workloadDetails\":false},\"workshopBoard\":{\"disableTooltip\":false},\"controlCenter\":{\"disableTooltip\":false},\"hiddenBacklog\":[]}}}}"
+        }
+      ]
+    }
+  ]
+}
