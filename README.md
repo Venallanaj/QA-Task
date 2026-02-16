@@ -28,7 +28,7 @@ Create a .env file in the project root:
 
 BASE_URL=https://werkstattplanung.net/demo/api/kic/da
 DA_USERNAME=Laconics-Admin
-DA_PASSWORD=JJDlSvNh6cej3cxv
+DA_PASSWORD=replace-with-real-password
 
 
 ▶️ Run Tests
